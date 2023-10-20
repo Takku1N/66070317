@@ -1,0 +1,27 @@
+#website-title {
+    font-size: 64px;
+    color: skyblue;
+    text-align: left;
+    font-weight: 800;
+}
+
+#second {
+    border: 2px red solid;
+    padding: 100px 40px;
+    margin: 60px;
+    display: inline-block;
+    width: 500px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.skyblue-text {
+    color: skyblue;
+}
+
+.container {
+    border: 2px blue solid;
+    padding: 25px 100px;
+}
